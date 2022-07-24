@@ -1,8 +1,10 @@
 
 welcome all the employees
 
-Sumit 
+Sumit  - 27000
 
-Sagar
-Nidhi
-Anusha
+Sagar    -  75000
+Nidhi    -  45000
+Anusha   - 24000
+
+
